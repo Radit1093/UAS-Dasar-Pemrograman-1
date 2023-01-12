@@ -1,0 +1,3 @@
+C:/Users/muham/OneDrive/Desktop/sistem-nonton-bioskop/cmake-build-debug/CMakeFiles/sistem_nonton_bioskop.dir
+C:/Users/muham/OneDrive/Desktop/sistem-nonton-bioskop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/muham/OneDrive/Desktop/sistem-nonton-bioskop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
